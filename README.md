@@ -25,6 +25,8 @@
 
 - Use inquirer from your command line to answer questions about your project.
 - Run the 'node index.js' at the root of your project and answer the prompted questions
+[
+](https://drive.google.com/file/d/1oD5LkN5wwdNRJ_fFUca-vVltNT4Trvhn/view)
 - [Usage Video](https://drive.google.com/file/d/1oD5LkN5wwdNRJ_fFUca-vVltNT4Trvhn/view)
 
 ## Contributing
