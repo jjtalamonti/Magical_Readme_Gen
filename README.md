@@ -19,13 +19,13 @@
 ## Installation
 
 - The user should clone the repository from GitHub and download Node. This application also requires a file system and inquirer module.
-- ![Github Repo](https://github.com/jjtalamonti/Magical_Readme_Gen)
+- [Github Repo](https://github.com/jjtalamonti/Magical_Readme_Gen)
 
 ## Usage
 
 - Use inquirer from your command line to answer questions about your project.
 - Run the 'node index.js' at the root of your project and answer the prompted questions
-- ![Usage Video](https://drive.google.com/file/d/1oD5LkN5wwdNRJ_fFUca-vVltNT4Trvhn/view)
+- [Usage Video](https://drive.google.com/file/d/1oD5LkN5wwdNRJ_fFUca-vVltNT4Trvhn/view)
 
 ## Contributing
 
@@ -33,9 +33,9 @@
 
 ## Questions
 
-- If you have further questions you can contact me at: ![Email](jjtalamonti@gmail.com)
+- If you have further questions you can contact me at: jjtalamonti@gmail.com
 
-- Follow this link to my repo if you would like to see more projects that I have created: ![Link to Repo](https://github.com/jjtalamonti/Magical_Readme_Gen)
+- Follow this link to my repo if you would like to see more projects that I have created: [Link to Repo](https://github.com/jjtalamonti/Magical_Readme_Gen)
 
 ## License
 
